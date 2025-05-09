@@ -1,8 +1,8 @@
 # 🌟 梦不见星空 | grey7213 🌟
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=grey7213+梦不见星空;Hello%2C+World!+%F0%9F%91%8B;Geek+%7C+Coder+%7C+Dreamer" alt="Signature" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&vCenter=true&width=600&lines=grey7213;梦不见星空;0x67726579723133;HelloWorld;%E2%9A%A1Geek%7CCoder%7CDreamer" alt="Typing SVG" />
+</a>
 
 <!-- DYNAMIC_CONTENT_START -->
 <!-- 这里将由 GitHub Actions 自动更新 -->

@@ -1,7 +1,7 @@
 # 🌟 梦不见星空 | grey7213 🌟
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&vCenter=true&width=600&lines=grey7213;梦不见星空;0x67726579723133;HelloWorld;%E2%9A%A1Geek%7CCoder%7CDreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&vCenter=true&width=600&lines=Test1;Test2;Test3" alt="Typing SVG" />
 </a>
 
 <!-- DYNAMIC_CONTENT_START -->
